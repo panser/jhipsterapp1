@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhipsterApp1",
+    "packageName": "ua.org.gostroy.jhipsterapp",
+    "packageFolder": "ua/org/gostroy/jhipsterapp",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": true,
+    "rememberMeKey": "6a9b312fd9e32460a300cc5891b3daa61110993b",
+    "testFrameworks": []
+  }
+}
